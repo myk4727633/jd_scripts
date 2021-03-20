@@ -55,9 +55,9 @@ $.tuanIds = [];
 /*
 url签名参数
  */
-const random = 'H6/aVJK6Ikxh';
-let token = `tk01wcb0f1dbfa8ncCs3RVJTWmROsQFiQEFr0SFKwv1UscY0AzsNkcnhPppzDHItv6SZ0/BerRpNTjivoMuzlCWtgtel`;
-let fingerprint = 3220710875724161;
+const random = 'Q1DVIzl2LXEZ';
+let token = `tk01wb98d1c56a8nN0lsSVIxck1TV36W1bXLLktu5B3jLbd6hvyRpyVlbYO6FPty9zTg5vHa+AXc2hdZX3tjqZATAQ2O`;
+let fingerprint = 2054632442896161;
 const appId = 10001;
 
 let fingerprintJD = '';
