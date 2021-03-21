@@ -2,7 +2,7 @@
 #自定义clone一个仓库示例脚本
   if [ ! -d "/jd_scripts_orz/" ]; then
      echo "未检查到jd_scripts_orz仓库脚本，初始化下载相关脚本"
-     git clone https://github.com/jianminLee/jd_scripts.git /jd_scripts_orz
+     git clone https://github.com/myk4727633/jd_scripts.git /jd_scripts_orz
  else
      echo "更新jd_scripts_orz脚本相关文件"
      git -C /jd_scripts_orz reset --hard
